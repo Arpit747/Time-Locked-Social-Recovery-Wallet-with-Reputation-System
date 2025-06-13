@@ -25,6 +25,15 @@ contract Project {
         mapping(address => bytes32) commitments;
         bool isExecuted;
         bool isActive;
+        RecoveryType recoveryType;struct RecoveryRequest {
+        address newOwner;
+        uint256 requestTime
+        uint256 requiredVotes;
+        uint256 currentVotes;
+        mapping(address => bool) hasVoted;
+        mapping(address => bytes32) commitments;
+        bool isExecuted;
+        bool isActive;
         RecoveryType recoveryType;
     }
 
