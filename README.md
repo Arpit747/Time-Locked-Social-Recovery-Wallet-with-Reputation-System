@@ -1,8 +1,7 @@
 Time-Locked Social Recovery Wallet with Guardian Reputation System
 
 📝 Project Description
-This project is a smart contract wallet that empowers secure, decentralized ownership recovery through a network of trusted guardians. It blends time-locked recovery flows with a guardian reputation mechanism to minimize abuse, support lost key scenarios, and improve the resilience of crypto self-custody.
-
+This project is a smart contract wallet that empowers secure, decentralized ownership recovery through a network of trusted guardians. It blends time-locked recovery flows with a guardian reputation mechanism to minimize abuse, support lost key scenarios, and improve the resilience of crypto self-custod
 🌍 Project Vision
 To build a trustless, resilient, and community-driven wallet recovery mechanism that eliminates single points of failure and enhances the safety of digital assets in the decentralized world. The vision is to offer individuals the ability to regain control over their wallets without relying on centralized institutions, while discouraging malicious actors through a reputation and staking system.
 
