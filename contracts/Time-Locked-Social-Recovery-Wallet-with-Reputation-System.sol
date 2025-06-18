@@ -12,7 +12,7 @@ contract Project {
         uint256 reputationScore;
         uint256 totalRecoveries;
         uint256 successfulRecoveries;
-        bool isActive;
+        bool isActiv
         uint256 stakedAmount;
     }
 
