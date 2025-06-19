@@ -43,7 +43,7 @@ contract Project {
         EMERGENCY      // Immediate with majority
     }
 
-    // State variables
+    // State
     address public owner;
     mapping(address => Guardian) public guardians;
     address[] public guardianList;
