@@ -20,8 +20,7 @@ contract Project {
         address newOwner;
         uint256 requestTime
         uint256 requiredVotes;
-        uint256 currentVotes;
-        mapping(address => bool) hasVoted;
+        uint256 currentVotes
         mapping(address => bytes32) commitments;
         bool isExecuted;
         bool isActive;
