@@ -3,8 +3,7 @@ pragma solidity ^0.8.19;
 
 /**
  * @title Time-Locked Social Recovery Wallet with Reputation System
- * @dev A smart contract wallet with social recovery mechanisms and guardian reputation tracking
- */
+ * @dev A smart contract wallet with social recovery mechanisms and guardian reputation track
 contract Project {
     // Structs
     struct Guardian {
