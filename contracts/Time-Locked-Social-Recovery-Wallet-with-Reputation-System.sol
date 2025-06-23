@@ -6,14 +6,7 @@ pragma solidity ^0.8.19;
  * @dev A smart contract wallet with social recovery mechanisms and guardian reputation track
 contract Project {
     // Structs
-    struct Guardian {
-        address guardianAddress;
-        uint256 reputationScore;
-        uint256 totalRecoveries;
-        uint256 successfulRecoveries;
-        bool isActiv
-        uint256 stakedAmount;
-    }
+   
 
     struct RecoveryRequest {
         address newOwner;
