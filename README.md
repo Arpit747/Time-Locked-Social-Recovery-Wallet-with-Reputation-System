@@ -12,9 +12,7 @@ LOST_KEY: 7-day waiting period
 
 COMPROMISED: 1-day waiting period
 
-EMERGENCY: Immediate if majority is met
-
-👥 Guardian-Based Social Recove
+EMERGENCY: Immediate if majority is m👥 Guardian-Based Social Recove
 
 Recovery requires consensus by a group of trusted guardians.
 
