@@ -14,7 +14,7 @@ COMPROMISED: 1-day waiting period
 
 EMERGENCY: Immediate if majority is met
 
-👥 Guardian-Based Social Recovery:
+👥 Guardian-Based Social Recove
 
 Recovery requires consensus by a group of trusted guardians.
 
